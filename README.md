@@ -32,15 +32,15 @@ Flask ve React kullanılarak geliştirilmiş modern bir görev yönetim uygulama
 
 ### Giriş Ekranı
 
-![Login](<img width="1297" height="918" alt="image" src="https://github.com/user-attachments/assets/668c65fe-52ff-4285-a4db-50d7fee13352" />)
+<img width="1297" height="918" alt="image" src="https://github.com/user-attachments/assets/668c65fe-52ff-4285-a4db-50d7fee13352" />
 
 ### Dashboard
 
-![Dashboard](<img width="769" height="316" alt="image" src="https://github.com/user-attachments/assets/91b8769a-86ea-4b21-a045-f6017e539737" />)
+<img width="769" height="316" alt="image" src="https://github.com/user-attachments/assets/91b8769a-86ea-4b21-a045-f6017e539737" />
 
 ### Admin Paneli
 
-![Admin](<img width="713" height="897" alt="image" src="https://github.com/user-attachments/assets/80427cf5-b154-40ba-a9f1-34ed36ead50e" />)
+<img width="713" height="897" alt="image" src="https://github.com/user-attachments/assets/80427cf5-b154-40ba-a9f1-34ed36ead50e" />
 
 ## ⚙️ Kurulum
 
